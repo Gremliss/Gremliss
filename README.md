@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Przemysław Liss
 - 👀 I’m interested in board games
-- 🌱 I’m currently learning React Native
 
 
 <!---
